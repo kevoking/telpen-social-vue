@@ -1,0 +1,1 @@
+import{W as t}from"./vendor.ed80a01b.js";class e extends t{constructor(){super({name:"CapContacts",platforms:["web"]})}async getPermissions(){throw new Error("getPermission not available")}async getContacts(){throw new Error("getContacts not available")}}const o=new e;export{o as Contacts,e as ContactsPluginWeb};

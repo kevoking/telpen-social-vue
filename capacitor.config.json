@@ -1,0 +1,6 @@
+{
+  "appId": "com.telpen.campaigns",
+  "appName": "Telpen Sales",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
